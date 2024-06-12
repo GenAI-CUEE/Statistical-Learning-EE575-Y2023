@@ -2,7 +2,8 @@
 
 Our goal is to provide the code-based visualization and exercises to understand the mathematics behind each of lectures in **Statiscal Learning EE2102575** by *Suwichaya Suwanwimolkul*.
 
- 
+- Youtube videos: https://www.youtube.com/playlist?list=PLYrwEv08Hccit73Gwmxderz3uJgaJ98iv
+
 ### Topics
 
 The coding scripts & excercises are 
